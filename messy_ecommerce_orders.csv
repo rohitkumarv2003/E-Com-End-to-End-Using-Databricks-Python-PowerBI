@@ -1,0 +1,330 @@
+﻿order_id,order_date,customer_id,city,category,unit_price,quantity,discount_pct,order_status,payment_method
+ORD-010002,2025-10-03,CUST-0095,Bengaluru,Clothing,567,1,15,Delivered,UPI
+ORD-010003,2025-08-06,CUST-0005,Mumbai,Electronics,6519,1,10,Pending,Cash on Delivery
+ORD-010004,2026-01-31,CUST-0008,Jaipur,Clothing,1618,4,NA,Delivered,unknown
+ORD-010005,2025-08-11,CUST-0176,Pune,Grocery,20,2,15,Delivered,UPI
+ORD-010006,2025-08-30,CUST-0103,Delhi,Clothing,1228,2,NA,Delivered,Cash on Delivery
+ORD-010007,2025-10-24,CUST-0002,Delhi,Home & Kitchen,625,1,15,Delivered,Cash on Delivery
+ORD-010008,21/02/2026,CUST-0008,Lucknow,Personal Care,176,1,0,Delivered,Cash on Delivery
+ORD-010009,03/11/2025,CUST-0094,lucknow ,Home & Kitchen,2752,1,5,Delivered,Debit Card
+ORD-010010,"Oct 27, 2025",CUST-0061,Pune,Clothing,672,2,0,Delivered,Cash on Delivery
+ORD-010011,2026-02-28,CUST-0005,Bengaluru,Home & Kitchen,749,3,0,Delivered,Debit Card
+ORD-010012,2026-01-06,CUST-0064,Mumbai,Clothing,729,3,10,Delivered,Credit Card
+ORD-010013,21-Aug-2025,CUST-0141,Bengaluru,Clothing,1550,2,10,Failed,UPI
+ORD-010014,2025-12-25,CUST-0063,Bengaluru,Home & Kitchen,4738,2,0,Delivered,UPI
+ORD-010015,2025/08/24,CUST-0033,Bengaluru,electronics ,7199,1,15,Delivered,UPI
+ORD-010016,,CUST-0014,Pune,Home & Kitchen,452,35,5,delivered,UPI
+ORD-010017,27-Aug-2025,CUST-0005,Bengaluru,BEAUTY,529,2,0,Failed,Debit Card
+ORD-010018,2025-12-26,CUST-0117,Hyderabad,Electronics,3241,1,5,Delivered,Debit Card
+ORD-010019,2025-12-28,CUST-0007,Jaipur,Home & Kitchen,1090,1,30,Delivered,UPI
+ORD-010020,19/09/2025,CUST-0002,Hyderabad,Electronic,4961,1,20,Delivered,UPI
+ORD-010021,2025-10-29,CUST-0005,Delhi,Electronics,3949,1,30,Delivered,Wallet
+ORD-010022,2025-11-01,CUST-0010,Hyderabad,Electronics,6178,1,15,Delivered,Cash on Delivery
+ORD-010023,2026/01/04,CUST-0047,Hyderabad,,7079,1,10,delivered,Debit Card
+ORD-010024,2025-12-25,CUST-0019,Delhi,Electronics,8025,1,15,Returned,Cash on Delivery
+ORD-010025,2025-08-05,CUST-0007,Hyderabad,Clothing,1563,4,10,Failed,UPI
+ORD-010026,2025-12-09,CUST-0127,Lucknow,Grocery,27,2,0,Delivered,UPI
+ORD-010027,2025-09-28,CUST-0002,Pune,Clothing,1795,5,20,Delivered, DC
+ORD-010028,2025-08-25,CUST-0016,Hyderabad,Beauty,245,2,25, Pending ,Net Banking
+ORD-010029,2025-09-25,CUST-0034,Lucknow,Grocery,60,2,15,Returned,UPI 
+ORD-010030,2026-02-04,CUST-0005,Bengaluru,Electronics,8904,1,20,Delivered,Debit Card
+ORD-010031,27/12/2025,CUST-0004,Jaipur,Home & Kitchen,316,2,10,Delivered,net banking
+ORD-010032,2025-11-14,CUST-0096,Jaipur,Beauty,105,1,15,Delivered,UPI
+ORD-010033,2026-01-12,CUST-0080,Bengaluru,Beauty,180.00,1,NA,Delivered,UPI
+ORD-010034,2025-09-02,CUST-0083,Hyderabad,Home & Kitchen,541,1,10,Delivered,UPI
+ORD-010035,26/12/2025,CUST-0002,Hyderabad,Grocery,74,5,15,Delivered,Credit Card
+ORD-010036,2026-02-06,CUST-0147,Delhi,Home & Kitchen,3256,2,15,delivered,Debit Card
+ORD-010037,2025-10-28,CUST-0012,Jaipur,Grocery,104,3,0,Returned,UPI
+ORD-010038,2025-12-30,CUST-0032,BENGALURU,Grocery,59,4,20,Delivered,Credit Card
+ORD-010039,2026-02-27,CUST-0118,Bengaluru,Electronics,5134,1,15,Cancelled,Credit Card
+ORD-010040,26-Jan-2026,CUST-0071,Delhi,Beauty,652,1,10,Delivered,UPI
+ORD-010041,27/02/2026,CUST-0029,PUNE,Grocery,45,6,15, Delivered ,UPI
+ORD-010042,20/12/2025,CUST-0017,Lucknow,Electronics,"₹6,803",1,20,Delivered,Wallet
+ORD-010043,28-Jan-2026,CUST-0161,Pune,Home & Kitchen,"₹1,272",1,10,Failed,UPI
+ORD-010044,2025-12-13,CUST-0045,Delhi,Beauty,468,1,25,Delivered,Credit Card
+ORD-010045,2025-11-04,CUST-0083,Lucknow,Beauty,213,1,20,DELIVERED,UPI
+ORD-010046,10/09/2025,CUST-0011,Bengaluru,Electronics,NA,1,10,Delivered,UPI
+ORD-010047,2026-01-06,CUST-0021,Hyderabad,Home & Kitchen,3010,45,0,Delivered,Credit Card
+ORD-010048,14/02/2026,CUST-0139,Delhi,Grocery,35,5,20,Delivered,UPI
+ORD-010049,12/02/2026,CUST-0118,Pune,Home & Kitchen,892,1,25,Cancelled,Cash on Delivery
+ORD-010050,2025-12-31,CUST-0034,Bengaluru,Grocery,37,4,0,Cancelled,Cash on Delivery
+ORD-010051,17/10/2025,CUST-0002,Bengaluru,Grocery,41,4,5,Delivered,Credit Card
+ORD-010052,2025-12-11,CUST-0028,Lucknow,Grocery,120,1,20,Delivered,Cash on Delivery
+ORD-010053,19/02/2026,CUST-0015,pune ,Clothing,599,1,10,Failed,upi
+ORD-010054,2025-10-20,CUST-0016,Hyderabad,Electronics,8433,1,15,Delivered,UPI
+ORD-010055,2025-10-22,CUST-0047,Hyderabad,Clothing,1602,1,15,Delivered,UPI
+ORD-010056,2025-11-04,CUST-0037,Lucknow,Clothing,1224,2,10,Delivered,Wallet
+ORD-010057,2025/11/05,CUST-0079,Hyderabad,Beauty,203,2,10,Delivered,Credit Card
+ORD-010058,,CUST-0001,Hyderabad,Grocery,₹43,2,10,Delivered,Wallet
+ORD-010059,2025-11-02,CUST-0102,Delhi,Beauty,805,2,15,Delivered,UPI
+ORD-010060,2026-01-17,CUST-0111,Bengaluru,Grocery,51,6,20,Delivered,UPI
+ORD-010061,2025-11-13,,Mumbai,Electronics,5964,1,10,Returned,UPI
+ORD-010062,2025-09-30,CUST-0001,Bengaluru,Electronics,1214,1,5,Delivered,Cash on Delivery
+ORD-010063,2025-10-28,CUST-0005,mumbai,Clothing,583,2,15,Delivered,Debit Card
+ORD-010064,2025-09-25,CUST-0115,Jaipur,Clothing,1437,1,15,Returned,Credit Card
+ORD-010065,17-Oct-2025,CUST-0082,Bombay,Clothing,249999,1,5,Delivered,UPI
+ORD-010066,2025-11-12,CUST-0066,Mumbai,Home & Kitchen,960,1,5,DELIVERED,Net Banking
+ORD-010067,24-Oct-2025,CUST-0002,Mumbai,Clothing,2087,1,5,Delivered,Cash on Delivery
+ORD-010068,05-Feb-2026,CUST-0142,Pune,Grocery,87,8,15,Delivered,UPI
+ORD-010069,22/12/2025,CUST-0014,Mumbai,Clothing,758,2,25,Delivered,unknown
+ORD-010070,2025-10-30,CUST-0099,HYDERABAD,Clothing,837,1,10,Delivered,UPI
+ORD-010071,2025-08-11,CUST-0064,Mumbai,Electronics,4665,1,15,DELIVERED ,UPI
+ORD-010072,2025-08-06,CUST-0009,Bengaluru,ELECTRONICS,6136,1,15,Delivered,Credit Card
+ORD-010073,2025/11/09,CUST-0004,hyderabad ,Beauty,572,3,15,Cancelled,Cash on Delivery
+ORD-010074,2025-12-08,CUST-0123,lucknow ,Grocery,22,3,0,Delivered,Debit Card
+ORD-010075,2025-08-21,CUST-0046,Bengaluru,Home & Kitchen,1805,2,25,Delivered,Wallet
+ORD-010076,23/08/2025,CUST-0049,Lucknow,Clothing,1906,2,0,Cancelled,UPI
+ORD-010077,2025/10/26,CUST-0005,New Delhi,Grocery,179,1,0,Failed,Cash on Delivery
+ORD-010078,2025-10-20,CUST-0003,Lucknow,Grocery,232,2,-5,Failed,UPI
+ORD-010079,2025-08-15,CUST-0051,Pune,Grocery,75,5,15,Delivered,Debit Card
+ORD-010080,2026-01-21,CUST-0004,Lucknow,Grocery,162,1,10,Delivered,Debit Card
+ORD-010081,2025-08-19,CUST-0003,Pune,Grocery,68,2,5,Delivered,Debit Card
+ORD-010082,2025-12-07,CUST-0001,Delhi,Home & Kitchen,515,NA,0,Delivered,Debit Card
+ORD-010083,16-Nov-2025,CUST-0001,Lucknow,Electronics,4168,1,20,Delivered,UPI
+ORD-010084,2025-12-01,CUST-0004,bangalore ,Clothing,"1,318.00",1,30,Delivered,UPI
+ORD-010085,2025-10-17,CUST-0189,LUCKNOW,Clothing,537,2,5,Delivered,UPI
+ORD-010086,2025-10-09,CUST-0010,Lucknow,Clothing,621,1,10,Returned,credit card
+ORD-010087,14/10/2025,CUST-0002,Lucknow,Beauty,411,2,5,DELIVERED,UPI
+ORD-010088,14/08/2025,CUST-0006,Bengaluru,Electronics,4289,1,15,Pending,UPI
+ORD-010089,2025-09-18,CUST-0047,Lucknow,Grocery,97,3,0,Cancelled,credit card
+ORD-010090,10-Aug-2025,CUST-0039,Jaipur,Beauty,538,2,20,Delivered,Debit Card
+ORD-010091,03/01/2026,CUST-0189,Jaipur,Beauty,159,3,10,Cancelled,Wallet
+ORD-010092,2025/11/12,CUST-0090,Hyderabad,Electronics,4226,1,25,Delivered,Cash on Delivery
+ORD-010093,2025-08-12,CUST-0108,unknown,Grocery,243,3,5, Pending ,Credit Card
+ORD-010094,06/10/2025,CUST-0141,Bengaluru,Clothing,734,4,10,Delivered,Credit Card
+ORD-010095,2025-08-15,CUST-0001,Bengaluru,CLOTHING,unknown,1,10,Cancelled,Debit Card
+ORD-010096,2025-11-19,CUST-0031,Jaipur,Clothing,1306,1,25,Delivered,NA
+ORD-010097,18/12/2025,CUST-0037,Bengaluru,Home & Kitchen,266,2,15,Delivered,debit card
+ORD-010098,2026-01-26,CUST-0004,Pune,Beauty,268,2,20,Delivered,Wallet
+ORD-010099,2025-11-02,CUST-0022,Hyderabad,Clothing,1673,2,15, Delivered ,UPI
+ORD-010100,"Oct 19, 2025",CUST-0025,Jaipur,Clothing,1477,2,25,Delivered,Credit Card
+ORD-010101,2026-01-01,CUST-0024,BENGALURU,Electronics,1814,2,25,Delivered,UPI
+ORD-010102,2025-11-09,CUST-0059,Delhi,Home & Kitchen,416,5,20,Delivered,Wallet
+ORD-010103,29/11/2025,CUST-0040,Hyderabad,Electronics,2637,2,25,Delivered,Debit Card
+ORD-010104,2025-12-20,CUST-0039,Hyderabad,Clothing,1709,1,5,Pending,Wallet
+ORD-010105,2025-11-08,CUST-0001,Bengaluru,Beauty,235,1,15,Delivered,UPI
+ORD-010106,2025-08-16,CUST-0008,Delhi,Home & Kitchen,1315,1,15%,Delivered,Debit Card
+ORD-010107,2025/10/07,CUST-0022,,Electronics,9510,1,5,Delivered,UPI
+ORD-010108,10/09/2025,CUST-0001,Delhi,Beauty,1578,3,20,Pending,UPI
+ORD-010109,"Feb 16, 2026",CUST-0006,Pune,Electronics,3821,3,25,Delivered,Debit Card
+ORD-010110,2026-01-26,CUST-0182,Bombay,Grocery,41,6,20,Delivered,Wallet
+ORD-010111,2025-11-27,CUST-0046,Mumbai,Clothing,951,1,0,Delivered,Credit Card
+ORD-010112,10/11/2025,CUST-0032,Hyderabad,Grocery,91,3,10,Delivered,UPI
+ORD-010113,29-Aug-2025,CUST-0010,Bengaluru,Grocery,135,5,20,delivered,UPI
+ORD-010114,2025-12-04,CUST-0032,Delhi,Beauty,1451,1,10,Delivered,COD
+ORD-010115,2025-10-30,CUST-0158,Mumbai,Electronics,5969,1,5,Pending,COD
+ORD-010116,2025-08-26,CUST-0120,Lucknow,Electronics,5576,1,20,Delivered,UPI
+ORD-010117,16-Nov-2025,CUST-0002,Delhi,Grocery,86,-2,10,Delivered,UPI
+ORD-010118,2025-12-18,,Mumbai,Clothing,664,1,15,Returned,UPI
+ORD-010119,01/01/2026,CUST-0013,Bengaluru,Electronics,6750,1,10,Cancelled,Debit Card
+ORD-010120,2026-01-26,CUST-0065,hyderabad ,Beauty,223,1,5,delivered,Debit Card
+ORD-010121,2026-02-13,CUST-0008,Bengaluru,Grocery,50,2,10,Delivered,Wallet
+ORD-010122,2025-09-03,CUST-0031,Delhi,Clothing,921,1,10,Returned,Net Banking
+ORD-010123,28/02/2026,CUST-0026,Lucknow,Grocery,116,6,0,Delivered,UPI
+ORD-010124,2026/01/20,CUST-0004,Hyderabad,Electronics,2562,1,20,cancel,UPI
+ORD-010125,2025-09-14,CUST-0003,Delhi,Home & Kitchen,5248,4,30,Delivered,cash on delivery
+ORD-010126,2025/10/21,CUST-0012,Pune,Grocery,205,4,15,Delivered,Debit Card
+ORD-010127,08-Sep-2025,CUST-0174,Jaipur,Electronics,8093,1,10,Cancelled,Cash on Delivery
+ORD-010128,22/12/2025,CUST-0005,Mumbai,Electronics,10273,1,15,Returned,Cash on Delivery
+ORD-010129,2025-10-10,CUST-0041,Delhi,Electronics,8477,1,unknown,delivered, DC
+ORD-010130,22/09/2025,CUST-0031,Mumbai,Electronics,2301,1,10,Pending,Credit Card
+ORD-010131,23-Oct-2025,CUST-0001,Mumbai,Electronics,,1,5,Delivered,Debit Card
+ORD-010132,2025-09-20,CUST-0119,Delhi,BEAUTY,432,1,10,Delivered,Credit Card
+ORD-010133,2026-01-25,CUST-0180,Jaipur,Grocery,93, 3 ,15, Delivered ,Debit Card
+ORD-010134,10-Aug-2025,CUST-0024,Mumbai,Grocery,114,2,5,Delivered,UPI
+ORD-010135,30-Dec-2025,CUST-0115,Hyderabad,Home & Kitchen,363,1,10,Delivered,UPI
+ORD-010136,2026-02-10,,Bengaluru,Clothing,5382,2,,Cancelled,Wallet
+ORD-010137,2025-08-29,CUST-0029,Bengaluru,Grocery,36,5,5,Delivered,Cash on Delivery
+ORD-010138,13/02/2026,CUST-0120,Lucknow,Home & Kitchen,841,1,0,Delivered,Debit Card
+ORD-010139,2026-02-16,CUST-0065,PUNE,Grocery,91,2,20,Delivered,Wallet
+ORD-010140,2026-01-14,CUST-0029,Hyderabad,Clothing,1125,1,15,Delivered,Wallet
+ORD-010141,N/A,CUST-0033,Delhi,Beauty,567,1,0,Delivered,Net Banking
+ORD-010142,"Aug 08, 2025",,Jaipur,Grocery,73,2,0,Cancelled,Credit Card
+ORD-010143,2025-09-01,CUST-0084,Hyderabad,Beauty,181,4,15,Delivered,Wallet
+ORD-010144,2025-08-19,CUST-0046,Pune,Home and Kitchen,"₹2,969",2,25,Delivered,UPI
+ORD-010145,2025-12-19,CUST-0012,,Grocery,64,2,15,Failed,UPI
+ORD-010146,22-Oct-2025,CUST-0099,Hyderabad,Clothing,1411,1,15,Delivered,UPI
+ORD-010147,03/10/2025,CUST-0001,Delhi,Electronics,3567,1,25,Delivered,Debit Card
+ORD-010148,26/08/2025,CUST-0001,Hyderabad,Clothing,673,1,40,Delivered,UPI
+ORD-010149,2025/08/29,CUST-0047,Delhi,Home & Kitchen,5582,unknown,15,Delivered,UPI
+ORD-010150,2026-02-10,CUST-0001,Bengaluru,Clothing,576,3,5,Delivered,Wallet
+ORD-010151,2025-11-29,CUST-0013,Delhi,Home & Kitchen,859,2,10,Cancelled,Cash on Delivery
+ORD-010152,2025-10-26,CUST-0003,Delhi,Beauty,321,1,20,cancel,UPI
+ORD-010153,27-Aug-2025,CUST-0127,Bangalore,Beauty,380,2,15,Delivered,Net Banking
+ORD-010154,2026-01-13,CUST-0001,Pune,Home & Kitchen,1480,5,25,DELIVERED,UPI
+ORD-010155,2025-10-21,CUST-0028,Jaipur,Grocery,62,3,20,Delivered,UPI
+ORD-010156,2025-11-02,CUST-0004,Hyderabad,Home & Kitchen,2041,3,30,Delivered,UPI
+ORD-010157,2025-11-07,CUST-0008,Bengaluru,Grocery,48,2,15,Delivered,Debit Card
+ORD-010158,2025-08-31,CUST-0024, MUMBAI ,Grocery,106,1,5,Delivered,UPI
+ORD-010159,2025-11-05,CUST-0005,Bombay,Clothing,1077,1,25,Delivered,Cash on Delivery
+ORD-010160,31-Aug-2025,CUST-0120,Bengaluru,Beauty,299,2,25,Delivered,upi
+ORD-010161,2025-09-28,NA,Delhi,Home & Kitchen,887,1,5,Delivered,Cash on Delivery
+ORD-010162,2025-11-18,CUST-0037,Jaipur,Clothing,2283,1,30,Returned,UPI
+ORD-010163,01/10/2025,CUST-0001,mumbai,Grocery,83,5,15,Delivered,UPI
+ORD-010164,2026-01-10,CUST-0060,Delhi,Grocery,₹81,2,10,DELIVERED,Credit Card
+ORD-010165,2025/12/09,CUST-0032,Mumbai,Clothing,1908,1,10,Cancelled,UPI
+ORD-010166,04/10/2025,CUST-0015,Hyderabad,Beauty,528,4,15,Delivered,UPI
+ORD-010167,2025-10-01,CUST-0164,Bengaluru,Clothing,929,1,10, Delivered ,Debit Card
+ORD-010168,26/10/2025,CUST-0010,Lucknow,Electronics,2793,2,20,Delivered,Wallet
+ORD-010169,2025-11-27,CUST-0007,Delhi,Electronics,3208,1,0,Delivered, DC
+ORD-010170,2026-01-21,CUST-0009,Hyderabad,Grocery,219,3,20,Delivered,Credit Card
+ORD-010171,25/12/2025,CUST-0092,Jaipur,Beauty,128,2,5,Cancelled,UPI
+ORD-010172,,CUST-0007,Jaipur,Clothing,1738,2,15,Delivered,credit card
+ORD-010173,2025-10-30,CUST-0190,Delhi,Clothing,4071,1,10,Delivered,Debit Card
+ORD-010174,2026-02-09,CUST-0035,Delhi,Grocery,38,3,20,DELIVERED,UPI
+ORD-010175,13/11/2025,CUST-0008,Mumbai,Home & Kitchen,1576,2,15,Delivered,Debit Card
+ORD-010176,22/08/2025,CUST-0133,DELHI,Beauty,723,1,20,Delivered,UPI
+ORD-010177,2025-11-02,CUST-0108,Bengaluru,Grocery,70,2,0,Delivered,UPI
+ORD-010178,2026-01-13,CUST-0051,Hyderabad,Beauty,289,1,10,Delivered,UPI
+ORD-010179,06-Feb-2026,CUST-0001,Jaipur,Clothing,3133,60,10,Delivered, CC 
+ORD-010180,30/11/2025,CUST-0073,Hyderabad,Electronics,9024,1,0,Delivered,Cash on Delivery
+ORD-010181,2026-02-20,CUST-0007,Delhi,Electronics,3037,1,10,Returned,UPI
+ORD-010182,2025/11/01,CUST-0047,Hyderabad,Home & Kitchen,2142,3,20,Delivered,Cash on Delivery
+ORD-010183,2026-02-08,,Bengaluru,Electronics,2317,2,0,DELIVERED,Cash on Delivery
+ORD-010184,2025-09-01,CUST-0179,Mumbai,Clothing,940,1,30,Delivered,Credit Card
+ORD-010185,2025-10-06,CUST-0042,Hyderabad,Apparel,978,3,10,Delivered,UPI
+ORD-010186,04/10/2025,CUST-0028,Lucknow,Electronics,6686,1,0,Delivered,UPI
+ORD-010187,26-Aug-2025,CUST-0077,Jaipur, Groceries ,65.00,6,5,Cancelled,Debit Card
+ORD-010188,2025-09-11,CUST-0003,Jaipur,Beauty,261,2,10,Delivered,Cash on Delivery
+ORD-010189,26-Oct-2025,CUST-0033,Bengaluru,Grocery,67,3,15,Delivered,Credit Card
+ORD-010190,2025-11-01,CUST-0032,Delhi,Beauty,214,1,10,Delivered,UPI
+ORD-010191,02/01/2026,CUST-0047,Delhi,Clothing,908,1,0, Delivered ,Wallet
+ORD-010192,2025-11-08,CUST-0101,Delhi,unknown,1952,1,15,Delivered,UPI
+ORD-010193,01/11/2025,CUST-0045,Mumbai,Clothing,1670,1,15,Delivered,UPI
+ORD-010194,2025-10-14,CUST-0001,Jaipur,Grocery,97,8,20,Delivered,Credit Card
+ORD-010195,2026-01-04,CUST-0003,bangalore ,Clothing,597,1,15,Delivered,Credit Card
+ORD-010196,2025-12-01,CUST-0046,Lucknow,Electronics,"₹5,569",1,30,Delivered,UPI
+ORD-010197,"Aug 03, 2025",CUST-0002,Jaipur,Grocery,130,5,0,Delivered,Credit Card
+ORD-010198,02/10/2025,CUST-0019,Delhi,Grocery,109,2,5,Delivered,cash on delivery
+ORD-010199,2025-11-30,CUST-0002,Mumbai,Beauty,389,1,0,DELIVERED,credit card
+ORD-010200,06-Sep-2025,CUST-0185,Delhi,Home & Kitchen,1697,3,30,Delivered,wallet
+ORD-010201,2025-11-12,CUST-0008,Bengaluru,Grocery,29,2,15,Delivered,Credit Card
+ORD-010202,2025-08-13,CUST-0007,Pune,Grocery,63,3,15,Cancelled,Credit Card
+ORD-010203,2025-10-23,CUST-0038,pune ,Clothing,2037,2,5,Delivered, DC
+ORD-010204,2026-02-19,CUST-0028,Hyderabad,Grocery,58,8,10,Delivered,UPI
+ORD-010205,2025-08-22,CUST-0004,New Delhi,Beauty,265,1,15,Failed,Net Banking
+ORD-010206,2025-08-17,CUST-0009,Jaipur,clothing ,1491,1,20,Delivered,Net Banking
+ORD-010207,2025-12-30,CUST-0060,Delhi,Grocery,185,8,0,Cancelled,Credit Card
+ORD-010208,2025-08-26,CUST-0031,Mumbai,Grocery,40,8,15,Failed,Debit Card
+ORD-010209,2025-11-14,CUST-0040,Bombay,Home & Kitchen,1415,3,0,Delivered,Debit Card
+ORD-010210,2025-12-28,CUST-0033,Pune,Clothing,2283,2,15,Delivered,Credit Card
+ORD-010211,2026-01-31,CUST-0002,Pune,Grocery,155,1,20,Failed,Credit Card
+ORD-010212,2025-08-21,CUST-0050,Jaipur,Grocery,79,2,NA,DELIVERED,Wallet
+ORD-010213,2025-10-16,NA,Delhi,Grocery,152,5,20,Cancelled,UPI
+ORD-010214,2026/01/14,CUST-0025,Bengaluru, Groceries ,67,1,0,Delivered, UPI
+ORD-010215,2025-09-19,CUST-0062,Jaipur,Electronics,1,1,5,Delivered,Debit Card
+ORD-010216,2026-01-07,CUST-0066,Mumbai,Electronics,1777,1,15,Delivered,Debit Card
+ORD-010217,2025-10-23,CUST-0002,Mumbai,Home & Kitchen,534,1,0,Delivered,UPI
+ORD-010218,2025-09-06,CUST-0005,Mumbai,grocery,50.00,3,20,Delivered,Debit Card
+ORD-010219,2025-11-06,CUST-0017,Pune,Home & Kitchen,2314,1,10,Delivered,Credit Card
+ORD-010220,2025-10-24,CUST-0005,NA,Grocery,40,8,15,Delivered,Wallet
+ORD-010221,13/09/2025,CUST-0007,Mumbai,Clothing,2377,1,0,Delivered,Wallet
+ORD-010222,29/11/2025,CUST-0001,Delhi,Grocery,143,3,15,Delivered,Credit Card
+ORD-010223,2026/02/26,CUST-0002,Pune,Electronics,8286,1,20,Delivered,UPI
+ORD-010224,"Jan 24, 2026",CUST-0001,Jaipur,Beauty,189,1,5,Delivered,Wallet
+ORD-010225,2025-11-23,CUST-0039,Lucknow,Grocery,26,1,15,Pending,UPI
+ORD-010226,26/01/2026,CUST-0014,Jaipur,Home & Kitchen,3593,2,30,Delivered,Wallet
+ORD-010227,2025-09-20,CUST-0014,Jaipur,Clothing,396,1,10,Delivered,UPI
+ORD-010228,30-Oct-2025,CUST-0089,Mumbai,Grocery,122,4,15,Delivered,unknown
+ORD-010229,2025-08-01,CUST-0008,Pune,Electronics,5807,2,25,Cancelled, UPI
+ORD-010230,2025-09-21,CUST-0031,LUCKNOW,Beauty,353,1,5,DELIVERED,Debit Card
+ORD-010231,2025-11-29,CUST-0105,Pune,Grocery,26,3,10,Delivered,upi
+ORD-010232,07/08/2025,CUST-0185,Hyderabad,Electronics,22158,1,10,Delivered,Credit Card
+ORD-010233,2026-01-13,CUST-0052,Mumbai,Grocery,133,10,20,Delivered,Cash on Delivery
+ORD-010234,2025-10-04,CUST-0018,Delhi,Beauty,351,2,10, Delivered ,UPI
+ORD-010235,2026-01-18,CUST-0131,Bengaluru,Home & Kitchen,1829,3,15,Delivered,Debit Card
+ORD-010236,2025-09-02,CUST-0022,Bengaluru,Beauty,174,4,15,Delivered,Credit Card
+ORD-010237,27/12/2025,CUST-0027,Delhi,Home & Kitchen,1198,1,30, Delivered ,Debit card
+ORD-010238,2025-08-08,CUST-0098,Pune,Beauty,689,1,125,Delivered,Credit Card
+ORD-010239,19/01/2026,CUST-0081,Jaipur,Beauty,260,1,25,Delivered,Cash on Delivery
+ORD-010240,04-Nov-2025,NA,Pune,Electronics,4721,1,10, Delivered ,Wallet
+ORD-010241,2025-10-10,CUST-0102,HYDERABAD,Beauty,536,1,40,Delivered,Cash on Delivery
+ORD-010242,2025-11-23,CUST-0083,BENGALURU,Grocery,79,2,0,Delivered,UPI
+ORD-010243,2025-08-23,CUST-0005,Delhi,Beauty,635,NA,15,Delivered,Credit Card
+ORD-010244,2025-08-30,CUST-0092,Hyderabad,Clothing,1975,1,10,Delivered,
+ORD-010245,01/02/2026,CUST-0043,Hyderabad,Beauty,835,5,0,Delivered,Cash on Delivery
+ORD-010246,19/10/2025,CUST-0002,Mumbai,Beauty,225,1,10,Pending,UPI
+ORD-010247,11-Nov-2025,CUST-0016,Hyderabad,Clothing,575,1,15,Delivered,UPI
+ORD-010248,2025-10-05,CUST-0012,Jaipur,Personal Care,276,1,25,Delivered,UPI
+ORD-010249,2025-12-13,CUST-0001,Bengaluru,Clothing,2834,1,0,Cancelled,UPI
+ORD-010250,04/12/2025,CUST-0004,Bombay,Home & Kitchen,846,1,10,Delivered,UPI
+ORD-010251,2025/12/22,CUST-0089,Delhi,Grocery,30,NA,20,Returned,Debit Card
+ORD-010252,"Sep 22, 2025",,Lucknow,Grocery,98,3,15,Cancelled,Cash on Delivery
+ORD-010253,2025-12-24,CUST-0077,Mumbai,Grocery,92,5,5,Delivered,UPI
+ORD-010254,2026-02-21,CUST-0138,new delhi,Clothing,1891,4,20,Failed,Wallet
+ORD-010255,2026-01-20,CUST-0149,lucknow ,Grocery,99999,4,20,Delivered,Net Banking
+ORD-010256,10/10/2025,CUST-0178,Bengaluru,Grocery,59,2,20,Delivered,UPI
+ORD-010257,09/01/2026,CUST-0039,Delhi,Clothing,1881,1,5,Pending,Debit Card
+ORD-010258,2025-08-25,CUST-0107,Delhi,Clothing,1074,1,5,Delivered,UPI
+ORD-010259,21/10/2025,CUST-0059,Delhi,Beauty,315,1,30,Delivered,UPI
+ORD-010260,2025-08-10,CUST-0096,Jaipur,Home & Kitchen,2154,1,5,Delivered,Credit Card
+ORD-010261,19/02/2026,CUST-0001,Delhi,Beauty,247,5,10, Delivered ,UPI
+ORD-010262,2025-12-28,CUST-0184,Hyderabad,Home & Kitchen,1551,1,0,Delivered,UPI
+ORD-010263,2025-09-08,CUST-0006,Lucknow,Clothing,599,1,10, Delivered ,Cash on Delivery
+ORD-010264,2025/11/23,CUST-0013,Mumbai,Grocery,62,3,10,Delivered,Debit Card
+ORD-010265,2025-10-22,CUST-0030,Lucknow,Grocery,71,2,NA,Cancelled,Credit Card
+ORD-010266,08/10/2025,CUST-0156,mumbai,Home & Kitchen,1982,1,10,cancel,Debit Card
+ORD-010267,2025-10-16,CUST-0014,Hyderabad,Home & Kitchen,2510,1,15,Delivered,Debit Card
+ORD-010268,2026-02-26,CUST-0007,Jaipur,Home & Kitchen,1400,1,0,Delivered,Credit Card
+ORD-010269,2025-12-13,CUST-0009,PUNE,Clothing,3322,1,10,cancelled,Cash on Delivery
+ORD-010270,2026-01-06,CUST-0181,Lucknow,Home & Kitchen,1601,1,10,Delivered,Credit Card
+ORD-010271,2025-11-18,CUST-0081,Mumbai,Home & Kitchen,2491,4,20,Failed,Cash on Delivery
+ORD-010272,2025-12-13,CUST-0144,Delhi,Grocery,105,10,5,Delivered,Credit Card
+ORD-010273,2025-08-04,CUST-0140,HYDERABAD,Grocery,35,1,20, Delivered ,debit card
+ORD-010274,2025-09-23,CUST-0057,Delhi,Electronics,5195,1,5,Delivered,debit card
+ORD-010275,13-Sep-2025,CUST-0171,Jaipur,Apparel,1039,2,5,Cancelled,Cash on Delivery
+ORD-010276,30-Dec-2025,CUST-0037,Lucknow,Home & Kitchen,2150,1,10,Delivered,Credit Card
+ORD-010277,24-Oct-2025,CUST-0078,Jaipur,Electronics,1528,1,25,Delivered,Credit Card
+ORD-010278,2025-10-25,CUST-0179,Bengaluru,Grocery,48,8,20,DELIVERED,Credit Card
+ORD-010279,2026-02-25,CUST-0016,hyderabad ,electronics ,4661,1,5,CANCELLED,Credit Card
+ORD-010280,2025-08-08,CUST-0115,Lucknow,Electronics,5011,1,15, Delivered ,Wallet
+ORD-010281,2025-09-29,CUST-0004,Delhi,Home & Kitchen,5302,3,15,Delivered,Credit Card
+ORD-010282,2025-10-19,CUST-0005,hyderabad ,Clothing,460,1,20,Cancelled,UPI
+ORD-010283,2026-02-25,CUST-0143,lucknow ,CLOTHING,1820,4,20, Delivered ,Debit Card
+ORD-010284,2025-10-02,CUST-0037,Lucknow,Beauty,210,2,15,Delivered,Debit Card
+ORD-010285,04/08/2025,CUST-0033,hyderabad ,Clothing,,4,5,Delivered,Credit Card
+ORD-010286,2025-08-07,CUST-0006,Jaipur,Clothing,1259,1,0,Delivered,Debit Card
+ORD-010287,18-Oct-2025,CUST-0036,Bengaluru,Electronics,3592,1,30,Delivered,Credit Card
+ORD-010288,2025-12-19,CUST-0097,Lucknow,Electronics,4312,NA,25,Delivered,UPI
+ORD-010289,2026-01-03,CUST-0147,Mumbai,Electronics,11910,2,0,Delivered,UPI
+ORD-010290,29/09/2025,CUST-0024,Jaipur,Grocery,31,2,20,Returned,Net Banking
+ORD-010291,02-Dec-2025,CUST-0087,Bengaluru,Clothing,1819,4,0,Delivered,Cash on Delivery
+ORD-010292,2025-08-23,CUST-0002,Jaipur,Home & Kitchen,2323,5,30,Delivered,Credit Card
+ORD-010293,2025-12-10,unknown,Delhi,Clothing,1047,4,25,Cancelled,Cash on Delivery
+ORD-010294,2025-09-30,CUST-0003,Delhi,Clothing,659,1,20, Delivered ,Cash on Delivery
+ORD-010295,"Aug 08, 2025",CUST-0015,Pune,Electronics,2797,1,20,Delivered,Credit Card
+ORD-010296,2025-11-11,CUST-0005,Mumbai,Home & Kitchen,unknown,1,15,Returned,Wallet
+ORD-010297,02/11/2025,CUST-0078,Lucknow,Home & Kitchen,1945,1,20,Delivered,UPI
+ORD-010298,2025-11-05,CUST-0115,Delhi,Grocery,167,2,5,Delivered,upi
+ORD-010299,2025-12-21,CUST-0088,new delhi,Apparel,341,3,30,Delivered,UPI
+ORD-010300,30-Oct-2025,CUST-0062,Pune,Home & Kitchen,1508,1,10,Delivered,UPI
+ORD-010301,2025-08-14,CUST-0052,Lucknow,NA,95,1,10,Delivered,Cash on Delivery
+ORD-010302,2025-11-17,CUST-0025,Lucknow,Home & Kitchen,3793,1,20,Delivered,Credit Card
+ORD-010303,2025-09-01,CUST-0026,Hyderabad,Home & Kitchen,1967,4,10,Delivered,UPI
+ORD-010304,2025-09-18,CUST-0001,Lucknow,Electronic,5912,2,15,Delivered,Cash on Delivery
+ORD-010305,2026-01-25,CUST-0011,bangalore ,Grocery,64,2,20, Delivered ,Cash on Delivery
+ORD-010306,2025-12-14,CUST-0046,Mumbai,Clothing,829,2,20,Delivered,Debit Card
+ORD-010307,16/12/2025,CUST-0044,Jaipur,Electronics,3164,1,10,delivered,UPI
+ORD-010308,2025-11-05,CUST-0001,Delhi,home & kitchen,136,2,25,CANCELLED,UPI
+ORD-010309,"Dec 27, 2025",CUST-0008,Jaipur,Grocery,48,2,5,Delivered,Credit Card
+ORD-010310,2025-11-02,CUST-0179,Mumbai,Beauty,unknown,4,15,Pending,UPI
+ORD-010311,2026-01-25,CUST-0010,Delhi,home & kitchen,1572,two,10,Delivered,Debit Card
+ORD-010312,21/10/2025,CUST-0056,Lucknow,Grocery,54,2,20,DELIVERED,Debit Card
+ORD-010313,2025-09-02,CUST-0006,Jaipur,Grocery,313,6,20,delivered,Debit Card
+ORD-010314,2025-10-18,CUST-0048,Pune,Apparel,1297,2,5,Cancelled,Cash on Delivery
+ORD-010315,2025-09-09,CUST-0032,Mumbai,ELECTRONICS,3928,0,15,Failed,Credit Card
+ORD-010316,2026-01-27,CUST-0001,Delhi,Beauty,,2,0, Delivered ,Debit Card
+ORD-010317,10/09/2025,CUST-0096,Mumbai,Electronics,15072,1,15,Delivered,UPI
+ORD-010318,2026-01-02,CUST-0001,Lucknow,Grocery,47,5,10,delivered,UPI
+ORD-010319,2025-11-20,CUST-0139,Pune,Clothing,1646,1,0,Delivered,UPI
+ORD-010320,2025-08-25,unknown,Mumbai,Home & Kitchen,₹912,1,N/A,Failed,Debit Card
+ORD-010321,2025-08-04,CUST-0012,Jaipur,Grocery,73,1,20,Delivered,UPI
+ORD-010023,2026/01/04,CUST-0047,Hyderabad,,7079,1,10,delivered,Debit Card
+ORD-010090,10-Aug-2025,CUST-0039,Jaipur,Beauty,538,2,20,Delivered,Debit Card
+ORD-010149,2025/08/29,CUST-0047,Delhi,Home & Kitchen,5582,unknown,15,Delivered,UPI
+ORD-010240,04-Nov-2025,NA,Pune,Electronics,4721,1,10, Delivered ,Wallet
+ORD-010293,2025-12-10,unknown,Delhi,Clothing,1047,4,25,Cancelled,Cash on Delivery
+ORD-010046,10/09/2025,CUST-0011,Bengaluru,Electronics,NA,2,10,Delivered,UPI
+ORD-010118,2025-12-18,,Mumbai,Clothing,664,1,15,Returned,UPI
+ORD-010207,2025-12-30,CUST-0060,Delhi,Grocery,185,8,0,Cancelled,Credit Card
+ORD-010279,2026-02-25,CUST-0016,hyderabad ,electronics ,4661,1,10,CANCELLED,Credit Card
